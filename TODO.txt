@@ -1,0 +1,4 @@
+Animations:
+	Jump
+	Crouch
+	Strafe
